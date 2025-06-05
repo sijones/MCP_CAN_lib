@@ -1,3 +1,5 @@
+*** Modified version for DIY-Battery Use ***
+
 MCP_CAN Library for Arduino
 ==============
 MCP_CAN library v1.5
