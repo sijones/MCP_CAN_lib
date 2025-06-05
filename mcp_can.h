@@ -26,7 +26,7 @@
 
 #include "mcp_can_dfs.h"
 #define MAX_CHAR_IN_MESSAGE 8
-#define SPI_SPEED 1000000
+#define SPI_SPEED 500000
 
 class MCP_CAN
 {
